@@ -1,0 +1,33 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  height: 60vh;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(img3.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  height: 60vh;
+  background-image: linear-gradient(
+      rgba(32, 29, 89, 0.6),
+      rgba(24, 41, 111, 0.6)
+    ),
+    url(img3.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  height: 60vh;
+  background-image: linear-gradient(
+      rgba(26, 34, 82, 0.6),
+      rgba(20, 19, 88, 0.6)
+    ),
+    url(img3.jpg);
+}
+.empty {
+  min-height: 100vh;
+}
